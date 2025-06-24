@@ -1,1 +1,1 @@
-silla:4 patas y respaldo de madera:100:20
+silla:4 patas y respaldo de madera:100:18
